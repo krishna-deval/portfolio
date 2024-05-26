@@ -717,7 +717,7 @@ footer span a:hover{
     margin-left: auto;
     background-color: rgb(202, 0, 81);
     border-radius: 50%;
-    /* overflow: hidden; */
+    overflow: hidden !important;
     position: relative;
     top: -40px;
 }
