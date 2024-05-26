@@ -675,6 +675,9 @@ footer span a:hover{
     .services .serv-content .card{
         width: 100%;
     }
+    .photo_section{
+       display:none !important;
+    }
 }
 
 @media (max-width: 500px) {
